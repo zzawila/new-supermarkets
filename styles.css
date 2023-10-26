@@ -93,7 +93,7 @@ hr {
 
 .container,
 .icon-container {
-    width: 100%;
+    max-width: 850px;
     margin: 0 auto;
     padding: 10px;
 }
